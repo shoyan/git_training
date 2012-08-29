@@ -11,4 +11,9 @@ class Calclator
     {
         return $a + $b;
     }
+
+    function square($a)
+    {
+        return $a * $a;
+    }
 }
